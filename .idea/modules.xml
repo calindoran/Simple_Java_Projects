@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuidADroid/BuidADroid.iml" filepath="$PROJECT_DIR$/BuidADroid/BuidADroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DNA/DNA.iml" filepath="$PROJECT_DIR$/DNA/DNA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FortuneCookie/FortuneCookie.iml" filepath="$PROJECT_DIR$/FortuneCookie/FortuneCookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageGenerator/ImageGenerator.iml" filepath="$PROJECT_DIR$/ImageGenerator/ImageGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanguageTypes/LanguageTypes.iml" filepath="$PROJECT_DIR$/LanguageTypes/LanguageTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathMagic/MathMagic.iml" filepath="$PROJECT_DIR$/MathMagic/MathMagic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playlist/Playlist.iml" filepath="$PROJECT_DIR$/Playlist/Playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple_Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/Simple_Java_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePrimeDirective/ThePrimeDirective.iml" filepath="$PROJECT_DIR$/ThePrimeDirective/ThePrimeDirective.iml" />
+    </modules>
+  </component>
+</project>
