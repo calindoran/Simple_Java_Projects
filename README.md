@@ -1,5 +1,6 @@
-# Simple_Java_Projects
+# Simple_Java_Projects #
  In this project package, there are a few cool simple commandline apps.
+
 
 ## AreaCalculator
 This simple app can calculate the area of objects given the right properties.
