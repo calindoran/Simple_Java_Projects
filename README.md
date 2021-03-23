@@ -1,4 +1,4 @@
-# Simple_Java_Projects #
+# Some Simple Java Projects #
  In this project package, there are a few cool simple commandline apps.
 
 
