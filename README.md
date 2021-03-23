@@ -1,5 +1,5 @@
 # Some Simple Java Projects #
- In this project package, there are a few cool simple commandline apps.
+ In this project package, there is a number of cool simple commandline apps.
 
 
 ## AreaCalculator
